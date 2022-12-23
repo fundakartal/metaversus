@@ -1,5 +1,6 @@
 import Navbar from './Navbar';
 import ExploreCard from './ExploreCard';
+import StartSteps from './StartSteps';
 import { TypingText, TitleText } from './CustomTexts';
 
 export {
@@ -7,4 +8,5 @@ export {
   TitleText,
   TypingText,
   ExploreCard,
+  StartSteps,
 };
