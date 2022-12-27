@@ -4,5 +4,6 @@ import Explore from './Explore';
 import GetStarted from './GetStarted';
 import WhatsNew from './WhatsNew';
 import World from './World';
+import Insights from './Insights';
 
-export { Hero, About, Explore, GetStarted, WhatsNew, World };
+export { Hero, About, Explore, GetStarted, WhatsNew, World, Insights };
