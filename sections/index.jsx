@@ -6,5 +6,6 @@ import WhatsNew from './WhatsNew';
 import World from './World';
 import Insights from './Insights';
 import Feedback from './Feedback';
+import Footer from './Footer';
 
-export { Hero, About, Explore, GetStarted, WhatsNew, World, Insights, Feedback };
+export { Hero, About, Explore, GetStarted, WhatsNew, World, Insights, Feedback, Footer };
